@@ -48,3 +48,11 @@ I also included a vertical progress bar, that I can subdivide into weeks as well
 1. [ ] I need to make sure Vue is behaving how I want. So, I need to make the components and use test data first. EOD Tuesday is the hard deadline for this.
 2. [ ] Get the data. I have a lot of CSVs to export, and I have to go through my Gists and repos and curate a list of links. I plan on implementing the first week of data first, then getting the rest of the data after.
 3. [ ] All this data needs to go into some sort of format to be consumed by the components. Markdown would be great, but there might be a better approach.
+
+## Checklist
+
+1. [ ] make a header
+2. [ ] make sidebar
+   - [ ] calendar
+   - [ ] progress bar (12 weeks)
+3. [ ] make scroll change calendar and progress barÂ

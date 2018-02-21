@@ -51,8 +51,13 @@ I also included a vertical progress bar, that I can subdivide into weeks as well
 
 ## Checklist
 
-1. [ ] make a header
-2. [ ] make sidebar
-   - [ ] calendar
-   - [ ] progress bar (12 weeks)
-3. [ ] make scroll change calendar and progress barÂ
+- [ ] make a header
+- [ ] make sidebar
+  - [ ] calendar
+  - [ ] progress bar (12 weeks)
+- [ ] make scroll change calendar and progress bar
+
+- [ ] implement fullpage
+- [ ] implement v-calendar
+- [ ] have components change on navigation
+- [ ] implement modal for 'about'

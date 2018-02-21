@@ -5,11 +5,16 @@
       <span class="header-name">Hammad Malik</span>
       <span class="about-trigger">WDI-20</span>
     </header>
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <main>
+      <aside>
+      </aside>
+
+      <section>
+        <article>
+        </article>
+      </section>
+
+    </main>
   </div>
 </template>
 
@@ -29,6 +34,7 @@ header {
   padding: 8px;
   display: flex;
   justify-content: flex-start;
+  align-items: center;
 }
 
 .profile-picture {

@@ -1,17 +1,20 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <hello-world msg="Welcome to Your Vue.js App"/>
+    <wdi-day></wdi-day>
   </div>
 </template>
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
+import WdiDay from './components/WdiDay.vue'
 
 export default {
   name: 'app',
   components: {
-    HelloWorld
+    HelloWorld,
+    WdiDay
   }
 }
 </script>

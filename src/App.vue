@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <wdi-day></wdi-day>
     <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
@@ -8,17 +7,6 @@
     <router-view/>
   </div>
 </template>
-
-<script>
-import WdiDay from './components/WdiDay.vue'
-
-export default {
-  name: 'app',
-  components: {
-    WdiDay
-  }
-}
-</script>
 
 <style>
 #app {

@@ -66,3 +66,15 @@ I also included a vertical progress bar, that I can subdivide into weeks as well
 
 - [ ] Determine: What makes a day?
 - [ ] render component for first day of WDI
+
+_**What does a high-level breakdown look like?**_
+
+- total time in:
+  - class (include scrum)
+  - hw
+  - labs
+  - projects
+  - outcomes
+- MVP vs Bonus time
+  - per week?
+  - per lab? hw? projects?

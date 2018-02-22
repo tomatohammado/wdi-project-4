@@ -78,3 +78,18 @@ _**What does a high-level breakdown look like?**_
 - MVP vs Bonus time
   - per week?
   - per lab? hw? projects?
+
+## Things I want to visualize
+
+1. Circle Graph: Total time in WDI, divided as
+   - Class (include scrums)
+   - Outcomes
+   - HW
+   - Labs
+   - Projects
+2. Average Exercises and HW per non-project week
+3. Average time for HW
+4. Average time for Lab
+5. Average time for projects
+6. Overall - average time of MVP vs Bonus
+7. Clocks - start-to-end time of each day

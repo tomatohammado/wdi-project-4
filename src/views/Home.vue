@@ -2,7 +2,9 @@
   <div class="home">
     <img src="../assets/logo.png">
     <wdi-day></wdi-day>
-    <totals-doughnut-cart></totals-doughnut-cart>
+    <div class="container">
+      <totals-doughnut-cart></totals-doughnut-cart>
+    </div>
   </div>
 </template>
 
@@ -18,3 +20,12 @@ export default {
   }
 }
 </script>
+
+<style lang="scss">
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+</style>
+
+

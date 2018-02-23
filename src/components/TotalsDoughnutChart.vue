@@ -21,6 +21,15 @@ export default {
             102140,
             547584,
             170583,
+          ],
+          backgroundColor: [
+            '#FC9C96',
+            '#FF2143',
+            '#969FC2',
+            '#B7A99C',
+            '#7ED5C0',
+            '#FFB600',
+            '#FF8650'
           ]
         }],
         labels: [

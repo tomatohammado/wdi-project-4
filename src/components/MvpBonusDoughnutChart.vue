@@ -19,12 +19,14 @@ export default {
           ],
           backgroundColor: [
             '#FFB600',
-            '#FF8650'
+            '#7ED5C0'
           ]
         }],
         labels: [
-          'MVP: 152:06:24',
-          'Bonus: 47:23:03'
+          // 'MVP: 152:06:24',
+          // 'Bonus: 47:23:03'
+          'MVP',
+          'Bonus'
         ]
       },
       dataoptions: {

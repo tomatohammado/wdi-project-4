@@ -1,5 +1,5 @@
 <template>
-  <doughnut-chart :data="datacollection"></doughnut-chart>
+  <doughnut-chart :data="datacollection" :options="dataoptions"></doughnut-chart>
 </template>
 
 <script>
@@ -13,14 +13,21 @@ export default {
     return {
       datacollection: {
         datasets: [{
+          // data: [
+          //   651972,
+          //   167019,
+          //   195113,
+          //   419512,
+          //   102140,
+          //   547584,
+          //   170583,
+          // ],
           data: [
-            651972,
-            167019,
-            195113,
-            419512,
-            102140,
-            547584,
-            170583,
+            181,
+            46,
+            54,
+            116,
+            28,
           ],
           backgroundColor: [
             '#FC9C96',
@@ -28,8 +35,6 @@ export default {
             '#969FC2',
             '#B7A99C',
             '#7ED5C0',
-            '#FFB600',
-            '#FF8650'
           ]
         }],
         labels: [
@@ -38,9 +43,12 @@ export default {
           'Labs: 54:11:53',
           'Projects: 116:31:52',
           'Outcomes: 28:22:20',
-          'MVP: 152:06:24',
-          'Bonus: 47:23:03'
         ]
+      },
+      dataoptions: {
+        tooltips: {
+          enabled: true
+        }
       }
     }
   }

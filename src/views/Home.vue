@@ -4,6 +4,7 @@
     <wdi-day></wdi-day>
     <div class="container">
       <totals-doughnut-cart></totals-doughnut-cart>
+      <mvp-bonus-doughnut-cart></mvp-bonus-doughnut-cart>
     </div>
   </div>
 </template>
@@ -11,12 +12,14 @@
 <script>
 import WdiDay from '@/components/WdiDay.vue'
 import TotalsDoughnutCart from '@/components/TotalsDoughnutChart.vue'
+import MvpBonusDoughnutCart from '@/components/MvpBonusDoughnutChart.vue'
 
 export default {
   name: 'home',
   components: {
     WdiDay,
-    TotalsDoughnutCart
+    TotalsDoughnutCart,
+    MvpBonusDoughnutCart
   }
 }
 </script>

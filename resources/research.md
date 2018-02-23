@@ -7,3 +7,4 @@
 - [node.js: use `fs` to write file to system](https://ourcodeworld.com/articles/read/297/how-to-create-a-file-using-the-filesystem-fs-module-in-node-js)
 - [moment.js: convert HH:MM:SS duration to seconds](https://stackoverflow.com/a/47219132)
 - [source for 7-color color palette](https://www.pinterest.com/pin/68724944581/)
+- [how to deploy a Vue app to gh-pages: there's an npm package for that](https://www.npmjs.com/package/vue-gh-pages)

@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "node ./node_modules/vue-gh-pages/index.js"
   },
   "dependencies": {
     "chart.js": "^2.7.1",
@@ -18,6 +19,7 @@
     "@vue/cli-service": "^3.0.0-beta.1",
     "node-sass": "^4.7.2",
     "sass-loader": "^6.0.6",
+    "vue-gh-pages": "^1.10.2",
     "vue-template-compiler": "^2.5.13"
   },
   "browserslist": [

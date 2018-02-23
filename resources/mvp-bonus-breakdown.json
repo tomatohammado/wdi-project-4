@@ -1,0 +1,26 @@
+[
+    {
+        "task": "Class",
+        "tag": "wdi-class",
+        "mvpDuration": 81156,
+        "bonusDuration": 81838,
+        "mvpDurationFormatted": "22:32:36",
+        "bonusDurationFormatted": "22:43:58"
+    },
+    {
+        "task": "Homework",
+        "tag": "wdi-hw",
+        "mvpDuration": 97930,
+        "bonusDuration": 5590,
+        "mvpDurationFormatted": "27:12:10",
+        "bonusDurationFormatted": "1:33:10"
+    },
+    {
+        "task": "Labs",
+        "tag": "wdi-lab",
+        "mvpDuration": 144653,
+        "bonusDuration": 28169,
+        "mvpDurationFormatted": "40:10:53",
+        "bonusDurationFormatted": "7:49:29"
+    }
+]

@@ -3,12 +3,15 @@
     <h1>WDI20 - <em>A Breakdown</em></h1>
     <div class="container">
       <div class="container-chart">
+        <h2>Total Time Spent (In Hours)</h2>
         <totals-doughnut-cart></totals-doughnut-cart>
       </div>
       <div class="container-chart">
+        <h2>Total Time: MVP vs Bonus Requirements</h2>
         <mvp-bonus-doughnut-cart></mvp-bonus-doughnut-cart>
       </div>
       <div class="container-chart">
+        <h2>MVP/Bonus Time, by Task</h2>
         <mvp-bonus-bar-chart></mvp-bonus-bar-chart>
       </div>
     </div>

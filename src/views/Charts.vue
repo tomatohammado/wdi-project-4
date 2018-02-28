@@ -1,6 +1,6 @@
 <template>
   <div class="charts">
-    <h1>WDI20 - <em>A Breakdown</em></h1>
+    <h1>WDI20 - <em>A Data Visualization</em></h1>
     <div class="container">
       <div class="container-chart">
         <h2>Total Time Spent (In Hours)</h2>
